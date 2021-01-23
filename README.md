@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Jon's github stats](https://github-readme-stats.vercel.app/api?username=jonwood803)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **jwood803/jwood803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
