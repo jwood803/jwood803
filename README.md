@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Latest YouTube Video
+# Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
 - [Easily Infer Column Schema in ML.NET with the AutoML API](https://www.youtube.com/watch?v=U_d6OG5mwMU)
 - [Exploring the Databricks CLI - Secrets](https://www.youtube.com/watch?v=CWGNPc1u7w0)
@@ -8,6 +8,7 @@
 - [ML.NET Predictions on the Web in F# with the Safe Stack](https://www.youtube.com/watch?v=yM6gjErsPT0)
 - [Register and Deploy a Model in the Azure ML Service](https://www.youtube.com/watch?v=5P9VjdaV8J4)
 <!-- BLOG-POST-LIST:END -->
+
 
 [![Jon's github stats](https://github-readme-stats.vercel.app/api?username=jwood803&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
