@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [ML.NET Predictions Using Data from Azure CosmosDB](https://www.youtube.com/watch?v=N4tLj6VFNuI)
 - [Thrice Training in ML.NET: Refitting Your Model on Test and Validation Data](https://www.youtube.com/watch?v=DaN44FgMoa8)
 - [Easily Infer Column Schema in ML.NET with the AutoML API](https://www.youtube.com/watch?v=U_d6OG5mwMU)
 - [Exploring the Databricks CLI - Secrets](https://www.youtube.com/watch?v=CWGNPc1u7w0)
 - [What's New in ML.NET Version 1.5.4](https://www.youtube.com/watch?v=UZQxapzSjAI)
-- [ML.NET Predictions on the Web in F# with the Safe Stack](https://www.youtube.com/watch?v=yM6gjErsPT0)
 <!-- BLOG-POST-LIST:END -->
 
 
