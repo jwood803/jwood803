@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Participate in the ML.NET Community Conference!](https://www.youtube.com/watch?v=p7CtTayNOkQ)
 - [5 Reasons Why F# is Great for Data Science and Machine Learning in 2021](https://www.youtube.com/watch?v=kTuPcXnV1qU)
 - [ML.NET Predictions Using Data from Azure CosmosDB](https://www.youtube.com/watch?v=N4tLj6VFNuI)
 - [Thrice Training in ML.NET: Refitting Your Model on Test and Validation Data](https://www.youtube.com/watch?v=DaN44FgMoa8)
 - [Easily Infer Column Schema in ML.NET with the AutoML API](https://www.youtube.com/watch?v=U_d6OG5mwMU)
-- [Exploring the Databricks CLI - Secrets](https://www.youtube.com/watch?v=CWGNPc1u7w0)
 <!-- BLOG-POST-LIST:END -->
 
 
