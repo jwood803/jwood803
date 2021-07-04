@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [ML.NET June 2021 Update](https://www.youtube.com/watch?v=AZ19Yb2RYIU)
 - [ML.NET Course Announcement! Take Two](https://www.youtube.com/watch?v=Qgo_e8sN8r8)
 - [Live Stream - Use ML.NET to Score a Tensorflow Text Classification Model](https://www.youtube.com/watch?v=KjMCCI4hDuc)
 - [How the Machine Learning Process is Like Cooking](https://www.youtube.com/watch?v=Hqrkbxd69lM)
 - [What's New in the Model Builder Preview](https://www.youtube.com/watch?v=7Y4lb_BWUs0)
-- [How to Build the ML.NET Repository](https://www.youtube.com/watch?v=QUyZL_Tea7A)
 <!-- BLOG-POST-LIST:END -->
 
 
