@@ -5,7 +5,7 @@
 - [Building an Object Detection Model with the ML.NET Model Builder](https://www.youtube.com/watch?v=0ZPqLjbEPRk)
 - [Deep Learning Plans in ML.NET](https://www.youtube.com/watch?v=KelPNCJ8Rkc)
 - [AI Ethics and Fairness Resources](https://www.youtube.com/watch?v=qXdwUHuANlk)
-- [What's New in ML.NET 1.6](https://www.youtube.com/watch?v=UJqEYGcwNhU)
+- [What&#39;s New in ML.NET 1.6](https://www.youtube.com/watch?v=UJqEYGcwNhU)
 - [ML.NET June 2021 Update](https://www.youtube.com/watch?v=AZ19Yb2RYIU)
 <!-- BLOG-POST-LIST:END -->
 
