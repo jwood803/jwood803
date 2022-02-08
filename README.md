@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Add Audio Dictation to Your Articles with Cognitive Services](https://www.youtube.com/watch?v=dJpZrgZ5uPI)
 - [Introduction to QnA Maker](https://www.youtube.com/watch?v=qhAPQEE7Gow)
 - [Use Bing Image Search to Get Training Image Data](https://www.youtube.com/watch?v=lKCxQ6mxuy0)
 - [Building an Object Detection Model with the ML.NET Model Builder](https://www.youtube.com/watch?v=0ZPqLjbEPRk)
 - [Deep Learning Plans in ML.NET](https://www.youtube.com/watch?v=KelPNCJ8Rkc)
-- [AI Ethics and Fairness Resources](https://www.youtube.com/watch?v=qXdwUHuANlk)
 <!-- BLOG-POST-LIST:END -->
 
 
