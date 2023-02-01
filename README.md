@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
-- [Add Audio Dictation to Your Articles with Cognitive Services](https://www.youtube.com/watch?v=dJpZrgZ5uPI)
-- [Introduction to QnA Maker](https://www.youtube.com/watch?v=qhAPQEE7Gow)
-- [Use Bing Image Search to Get Training Image Data](https://www.youtube.com/watch?v=lKCxQ6mxuy0)
-- [Building an Object Detection Model with the ML.NET Model Builder](https://www.youtube.com/watch?v=0ZPqLjbEPRk)
-- [Deep Learning Plans in ML.NET](https://www.youtube.com/watch?v=KelPNCJ8Rkc)
+- [Top 5 Places to Read Research Papers For Free + 1 Bonus](https://www.youtube.com/watch?v=9N41qx1_uLI)
+- [AzureML low disk space fix! #shorts](https://www.youtube.com/watch?v=SwAqyzttf64)
+- [What&#39;s New in the ML.NET CLI](https://www.youtube.com/watch?v=ZApDu_Q_0-8)
+- [How Well Can ChatGPT Write ML.NET Code?](https://www.youtube.com/watch?v=FW7y0shXhlQ)
+- [ChatGPT Error Almost Ended Stream Early! #shorts](https://www.youtube.com/watch?v=LSBnjOywbp8)
 <!-- BLOG-POST-LIST:END -->
 
 
