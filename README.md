@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Awesome ML.NET Repository #shorts](https://www.youtube.com/watch?v=t4hUG6Hxsv4)
 - [Using Azure ML Service to Build a FastAI Model](https://www.youtube.com/watch?v=PKPzV_TcXuA)
 - [Using ML.NET in a GitHub Codespace](https://www.youtube.com/watch?v=WfCa3jmsGfQ)
 - [Top 5 Places to Read Research Papers For Free + 1 Bonus](https://www.youtube.com/watch?v=9N41qx1_uLI)
 - [AzureML low disk space fix! #shorts](https://www.youtube.com/watch?v=SwAqyzttf64)
-- [What&#39;s New in the ML.NET CLI](https://www.youtube.com/watch?v=ZApDu_Q_0-8)
 <!-- BLOG-POST-LIST:END -->
 
 
