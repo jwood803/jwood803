@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Using Repos in Azure Databricks](https://www.youtube.com/watch?v=M4-q4OlyIaM)
 - [Martial Arts Lessons You Can Apply to Your Software Career](https://www.youtube.com/watch?v=dkSnjpKmsiw)
 - [What&#39;s New in ML.NET Model Builder](https://www.youtube.com/watch?v=ShQe4AmtgwU)
 - [Awesome ML.NET Repository #shorts](https://www.youtube.com/watch?v=t4hUG6Hxsv4)
 - [Using Azure ML Service to Build a FastAI Model](https://www.youtube.com/watch?v=PKPzV_TcXuA)
-- [Using ML.NET in a GitHub Codespace](https://www.youtube.com/watch?v=WfCa3jmsGfQ)
 <!-- BLOG-POST-LIST:END -->
 
 
