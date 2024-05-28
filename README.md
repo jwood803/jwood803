@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [How Good is Azure Custom Speech?](https://www.youtube.com/watch?v=pkWoTdbM4RI)
 - [Jon Wood Live Stream](https://www.youtube.com/watch?v=RZGbQAAt5ks)
 - [Using Repos in Azure Databricks](https://www.youtube.com/watch?v=M4-q4OlyIaM)
 - [Martial Arts Lessons You Can Apply to Your Software Career](https://www.youtube.com/watch?v=dkSnjpKmsiw)
 - [What&#39;s New in ML.NET Model Builder](https://www.youtube.com/watch?v=ShQe4AmtgwU)
-- [Awesome ML.NET Repository #shorts](https://www.youtube.com/watch?v=t4hUG6Hxsv4)
 <!-- BLOG-POST-LIST:END -->
 
 
