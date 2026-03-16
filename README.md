@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Text-to-Speech in Minutes with the Azure Speech CLI](https://www.youtube.com/watch?v=TkNwIpA3Z9k)
 - [How I’d Learn Programming in 2026 — Starting with Exercism](https://www.youtube.com/watch?v=FN-VAAgU3eg)
 - [How Good is Azure Custom Speech?](https://www.youtube.com/watch?v=pkWoTdbM4RI)
 - [Jon Wood Live Stream](https://www.youtube.com/watch?v=RZGbQAAt5ks)
 - [Using Repos in Azure Databricks](https://www.youtube.com/watch?v=M4-q4OlyIaM)
-- [Martial Arts Lessons You Can Apply to Your Software Career](https://www.youtube.com/watch?v=dkSnjpKmsiw)
 <!-- BLOG-POST-LIST:END -->
 
 
