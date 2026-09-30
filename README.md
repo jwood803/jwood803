@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [.NET Tool Not Working? Clear This Cache](https://www.youtube.com/shorts/sAdgfHk2gi8)
 - [How I&#39;d Learn to Code in 2026 &lpar;Not AI, Not YouTube&rpar;](https://www.youtube.com/shorts/dNz83sXw6Ws)
 - [Real-Time Speech Translation in Your Terminal](https://www.youtube.com/shorts/8LS6sw5mNIA)
 - [Make Your Own Terminal Command with .NET](https://www.youtube.com/shorts/qWukdopqVag)
 - [Boost Your Dev Powers: Build Your Own .NET Tool](https://www.youtube.com/watch?v=SUM8zuozgbk)
-- [Azure Speech CLI: Speech-to-Text &amp; Translation in Minutes](https://www.youtube.com/watch?v=TkNwIpA3Z9k)
 <!-- BLOG-POST-LIST:END -->
 
 
