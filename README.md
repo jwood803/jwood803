@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Object Detection in a WinForms App &lpar;C# + ML.NET&rpar;](https://www.youtube.com/shorts/t7x90ThqiEk)
 - [.NET Tool Not Working? Clear This Cache](https://www.youtube.com/shorts/sAdgfHk2gi8)
 - [How I&#39;d Learn to Code in 2026 &lpar;Not AI, Not YouTube&rpar;](https://www.youtube.com/shorts/dNz83sXw6Ws)
 - [Real-Time Speech Translation in Your Terminal](https://www.youtube.com/shorts/8LS6sw5mNIA)
 - [Make Your Own Terminal Command with .NET](https://www.youtube.com/shorts/qWukdopqVag)
-- [Boost Your Dev Powers: Build Your Own .NET Tool](https://www.youtube.com/watch?v=SUM8zuozgbk)
 <!-- BLOG-POST-LIST:END -->
 
 
