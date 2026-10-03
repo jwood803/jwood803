@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Find Your ONNX Model&#39;s Input &amp; Output Names](https://www.youtube.com/shorts/pHYdEvWcLV4)
 - [Speech-to-Text in Your Terminal &lpar;1 Command&rpar;](https://www.youtube.com/shorts/-Z8j7k-5qNU)
 - [Object Detection in a WinForms App &lpar;C# + ML.NET&rpar;](https://www.youtube.com/shorts/t7x90ThqiEk)
 - [.NET Tool Not Working? Clear This Cache](https://www.youtube.com/shorts/sAdgfHk2gi8)
 - [How I&#39;d Learn to Code in 2026 &lpar;Not AI, Not YouTube&rpar;](https://www.youtube.com/shorts/dNz83sXw6Ws)
-- [Real-Time Speech Translation in Your Terminal](https://www.youtube.com/shorts/8LS6sw5mNIA)
 <!-- BLOG-POST-LIST:END -->
 
 
