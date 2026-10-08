@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Local vs Global .NET Tools &lpar;Which to Use?&rpar;](https://www.youtube.com/shorts/ktnEH2FWLkQ)
 - [Free Code Reviews From Real Mentors &lpar;Exercism&rpar;](https://www.youtube.com/shorts/L5RQluqnJIU)
 - [Azure Speech CLI Setup in 40 Seconds](https://www.youtube.com/shorts/4T5RUYHOiIY)
 - [3 Lines That Turn a C# App Into a CLI Tool](https://www.youtube.com/shorts/nPORMcOUtng)
 - [Find Your ONNX Model&#39;s Input &amp; Output Names](https://www.youtube.com/shorts/pHYdEvWcLV4)
-- [Speech-to-Text in Your Terminal &lpar;1 Command&rpar;](https://www.youtube.com/shorts/-Z8j7k-5qNU)
 <!-- BLOG-POST-LIST:END -->
 
 
