@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Where to Read AI Research Papers for Free](https://www.youtube.com/shorts/IUuCcy8XOaM)
 - [I Cloned My Voice With Azure AI &lpar;Southern Accent Test&rpar;](https://www.youtube.com/shorts/cbGwhTmV6AM)
 - [AI That Edits Photos From One Sentence &lpar;InstructPix2Pix&rpar;](https://www.youtube.com/shorts/vOwxIZDy7xY)
 - [.NET CLI Tool in 45 Seconds](https://www.youtube.com/shorts/2D87dH84eNc)
 - [File-Based Web API Won&#39;t Build? Add This Line](https://www.youtube.com/shorts/Bg3lfBkS6E8)
-- [One Line Turns a C# File Into a Web API](https://www.youtube.com/shorts/QZFpY09kKX0)
 <!-- BLOG-POST-LIST:END -->
 
 
