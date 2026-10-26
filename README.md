@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [5 Books That Made Me a Better Developer](https://www.youtube.com/shorts/v31_lTP4L-o)
 - [Where to Read AI Research Papers for Free](https://www.youtube.com/shorts/IUuCcy8XOaM)
 - [I Cloned My Voice With Azure AI &lpar;Southern Accent Test&rpar;](https://www.youtube.com/shorts/cbGwhTmV6AM)
 - [AI That Edits Photos From One Sentence &lpar;InstructPix2Pix&rpar;](https://www.youtube.com/shorts/vOwxIZDy7xY)
 - [.NET CLI Tool in 45 Seconds](https://www.youtube.com/shorts/2D87dH84eNc)
-- [File-Based Web API Won&#39;t Build? Add This Line](https://www.youtube.com/shorts/Bg3lfBkS6E8)
 <!-- BLOG-POST-LIST:END -->
 
 
