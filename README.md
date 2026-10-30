@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [F# Writes Your Data Types for You &lpar;Type Providers&rpar;](https://www.youtube.com/shorts/aSvOlFjIkBY)
 - [Being a &quot;Team Player&quot; Can Hurt Your Career](https://www.youtube.com/shorts/LhGxfXOmbF4)
-- [Is ML.NET Worth Learning](https://www.youtube.com/watch?v=uMtZohOJ3lo)
+- [Is ML.NET Worth Learning?](https://www.youtube.com/watch?v=uMtZohOJ3lo)
 - [5 Books That Made Me a Better Developer](https://www.youtube.com/shorts/v31_lTP4L-o)
 - [Where to Read AI Research Papers for Free](https://www.youtube.com/shorts/IUuCcy8XOaM)
-- [I Cloned My Voice With Azure AI &lpar;Southern Accent Test&rpar;](https://www.youtube.com/shorts/cbGwhTmV6AM)
 <!-- BLOG-POST-LIST:END -->
 
 
