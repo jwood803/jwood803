@@ -2,11 +2,11 @@
 
 # Latest YouTube Videos
 <!-- BLOG-POST-LIST:START -->
+- [Build Your First ML.NET Model in One C# File &lpar;.NET 10&rpar;](https://www.youtube.com/watch?v=F8FqfWDkLU8)
 - [Which .NET AI Tool Do You Need? &lpar;Cheat Sheet&rpar;](https://www.youtube.com/shorts/D68lOKUg0g8)
 - [5 Machine Learning Books I Actually Learned From](https://www.youtube.com/shorts/UplcExesKmw)
 - [F# Writes Your Data Types for You &lpar;Type Providers&rpar;](https://www.youtube.com/shorts/aSvOlFjIkBY)
 - [Being a &quot;Team Player&quot; Can Hurt Your Career](https://www.youtube.com/shorts/LhGxfXOmbF4)
-- [Is ML.NET Still Worth Learning in 2026? &lpar;vs LLMs&rpar;](https://www.youtube.com/watch?v=uMtZohOJ3lo)
 <!-- BLOG-POST-LIST:END -->
 
 
